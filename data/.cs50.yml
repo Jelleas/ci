@@ -1,9 +1,0 @@
-lab50:
-  window:
-    - editor
-    - readme
-    - terminal
-    - x
-  files:
-    - !include main.py
-    - !include car.tsv
